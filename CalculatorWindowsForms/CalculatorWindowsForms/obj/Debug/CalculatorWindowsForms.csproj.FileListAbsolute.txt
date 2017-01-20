@@ -1,0 +1,21 @@
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe.config
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.FormCalculator.resources
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.Properties.Resources.resources
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.pdb
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.exe
+C:\Users\Giperion\Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.pdb
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe.config
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.exe
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.pdb
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.pdb
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.FormCalculator.resources
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.Properties.Resources.resources
+C:\Users\Giperion\Desktop\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.GenerateResource.Cache
+D:\CDImagest\Среда Разработок\Програмирование\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe.config
+D:\CDImagest\Среда Разработок\Програмирование\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.exe
+D:\CDImagest\Среда Разработок\Програмирование\Project\Windows Forms\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.pdb

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculatorWindowsForms</name>
+    </assembly>
+    <members>
+        <member name="T:CalculatorWindowsForms.FormCalculator">
+            <summary>
+            Класс FormCalculator обрабатывает события отрисовки формы калькулятора
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.a">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.b">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.count">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.symbol">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.sign">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.dateLabel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.timeLabel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.infoLabel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.timer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CalculatorWindowsForms.FormCalculator.#ctor">
+            <summary>
+            Конструктор FormCalculator инициализирует объекты формы
+            </summary>
+        </member>
+        <member name="M:CalculatorWindowsForms.FormCalculator.Time">
+            <summary>
+            Метод Time для расчета текущего времени и даты
+            </summary>
+        </member>
+        <member name="M:CalculatorWindowsForms.FormCalculator.tsslTime_Click(System.Object,System.EventArgs)">
+            <summary>
+            Метод tsslTime_Click для обработки события StatusStrip
+            </summary>
+            <param name="sender">Принимает параметр любого типа</param>
+            <param name="e">Аргумент события</param>
+        </member>
+        <member name="M:CalculatorWindowsForms.FormCalculator.AboutToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Метод AboutToolStripMenuItem_Click выводит информацию "О программе"
+            </summary>
+            <param name="sender">Принимает параметр любого типа</param>
+            <param name="e">Аргумент события</param>
+        </member>
+        <member name="M:CalculatorWindowsForms.FormCalculator.AuthorDeveloperToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Метод AuthorDeveloperToolStripMenuItem_Click выводит информацию "Автор разработчик"
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:CalculatorWindowsForms.FormCalculator.components">
+            <summary>
+            Требуется переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:CalculatorWindowsForms.FormCalculator.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:CalculatorWindowsForms.FormCalculator.InitializeComponent">
+            <summary>
+            Обязательный метод для поддержки конструктора - не изменяйте
+            содержимое данного метода при помощи редактора кода.
+            </summary>
+        </member>
+        <member name="M:CalculatorWindowsForms.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:CalculatorWindowsForms.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:CalculatorWindowsForms.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:CalculatorWindowsForms.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>
